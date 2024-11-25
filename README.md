@@ -66,7 +66,11 @@ pricing-table-frontend/
 
 ## Screenshots
 
-*()*
+*Dark Theme*
+![alt text](https://github.com/1-Void-0/Pricing_Table/blob/main/SS_Dark.png?raw=true)
+
+*Light Theme*
+![alt text](https://github.com/1-Void-0/Pricing_Table/blob/main/SS_Light.png?raw=true)
 
 ---
 
