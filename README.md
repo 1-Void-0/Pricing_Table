@@ -8,7 +8,7 @@ Welcome to the **Pricing Table Frontend Project**! This project is a simple yet 
 
 ## Demo
 
-[Live Demo](https://pricing-table-zeta.vercel.app/) (Add the link to your live demo here if deployed)
+[Live Demo](https://pricing-table-zeta.vercel.app/)
 
 ---
 
